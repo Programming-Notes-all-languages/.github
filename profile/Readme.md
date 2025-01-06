@@ -49,22 +49,22 @@ While these notes are tailored to my learning style, I hope they can also be a v
   <details>
         <summary><a href="https://github.com/Programming-Notes-all-languages/C-Notes">C++ Notes</a></summary>
         <ul>
-            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/C%2B%2B%20Basics">C Basics</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Expressions">Expressions</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/C%2B%2B%20Basics">C++ Basics</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Expressions">Expressions</a></li>
             <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Formatted%20Input%20and%20Output">Formatted Input and Output</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Selection%20Statements">Selection Statements</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Loops">Loops</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Arrays">Arrays</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Functions">Functions</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Basic%20Type(s)">Basic Types</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Program%20Organization">Program Organization</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Pointers">Pointers</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Pointers%20and%20Arrays">Pointers and Arrays</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Strings">Strings</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Structures">Structures</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Files">Files</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Advanced%20Uses%20of%20Pointers">Advanced Uses of Pointers</a></li>
-            <li><a href="https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/Writing%20Large%20Programs">Writing Large Programs</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Selection%20Statements">Selection Statements</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Loops">Loops</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Arrays">Arrays</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Functions">Functions</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Basic%20Type(s)">Basic Types</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Program%20Organization">Program Organization</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Pointers">Pointers</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Pointers%20and%20Arrays">Pointers and Arrays</a></li>
+            <li><a href="[https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/)Strings">Strings</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Structures">Structures</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Files">Files</a></li>
+            <li><a href="[https://github.com/Programming-Notes-all-languages/C-Notes/tree/main/](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/)Advanced%20Uses%20of%20Pointers">Advanced Uses of Pointers</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Writing%20Large%20Programs">Writing Large Programs</a></li>
         </ul>
     </details>   
 
