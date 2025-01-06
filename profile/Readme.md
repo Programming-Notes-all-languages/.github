@@ -1,7 +1,12 @@
 <body>
-  <a href="https://www.linkedin.com/in/garrett-ellis-740b202a6/" target="_blank">
-    <img src="https://github.com/garrettbovo/garrettbovo/assets/154717520/b7afe3a0-edb2-4cea-8b47-e687daa11c87" alt="GitHub Header Image">
+<p align="center">
+  <a href="https://github.com/garrettbovo">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" title="Go to my GitHub homepage" />
   </a>
+  <a href="https://www.linkedin.com/in/yourprofile/">
+    <img src="linkedin-icon.png" alt="LinkedIn" title="Visit my LinkedIn profile" />
+  </a>
+</p>
 
   <details>
     <summary>Table of Contents</summary>
