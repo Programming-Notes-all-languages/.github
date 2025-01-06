@@ -1,13 +1,13 @@
 <body>
-<p align="center">
+  <p align="center">
   <a href="https://github.com/garrettbovo">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" title="Go to my GitHub homepage" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="60" title="Go to my GitHub homepage" />
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile/">
-    <img src="linkedin-icon.png" alt="LinkedIn" title="Visit my LinkedIn profile" />
+  <a href="https://www.linkedin.com/in/garrett-ellis-740b202a6/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="60" title="Visit my LinkedIn profile" />
   </a>
 </p>
-
+  
   <details>
     <summary>Table of Contents</summary>
     <ol>
