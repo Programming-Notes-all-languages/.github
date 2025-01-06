@@ -1,17 +1,12 @@
 <body>
   <p align="center">
-  <a href="https://github.com/garrettbovo">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="60" title="Go to my GitHub homepage" />
-  </a>
-  <a href="https://github.com/garrettbovo">GitHub Homepage</a>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/garrett-ellis-740b202a6/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="60" title="Visit my LinkedIn profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/garrett-ellis-740b202a6/">LinkedIn Profile</a>
-</p>
-
+    <a href="https://github.com/garrettbovo" title="Go to my GitHub homepage">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="60" />
+    </a>
+    <a href="https://www.linkedin.com/in/garrett-ellis-740b202a6/" title="Visit my LinkedIn profile">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="60" />
+    </a>
+  </p>
   <details>
     <summary>Table of Contents</summary>
     <ol>
