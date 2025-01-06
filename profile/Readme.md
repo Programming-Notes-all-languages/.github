@@ -47,7 +47,7 @@ While these notes are tailored to my learning style, I hope they can also be a v
     </details>   
 
   <details>
-        <summary><a href="https://github.com/Programming-Notes-all-languages/C-Notes">C++ Notes</a></summary>
+        <summary><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes">C++ Notes</a></summary>
         <ul>
             <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/C%2B%2B%20Basics">C++ Basics</a></li>
             <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Expressions">Expressions</a></li>
