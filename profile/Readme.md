@@ -1,13 +1,6 @@
 <body>
-  <p align="center">
-  <a href="https://github.com/garrettbovo" title="Go to my GitHub homepage" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="60" border="1" /> GitHub Homepage
-  </a>
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <!-- Adds space between the images -->
-  <a href="https://www.linkedin.com/in/garrett-ellis-740b202a6/" title="Visit my LinkedIn profile" style="text-decoration: none;">
-    LinkedIn<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="60" border="1" />
-  </a>
-</p>
+<p>GitHub Homepage: <a href="https://github.com/garrettbovo"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40"></a></p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/garrett-ellis-740b202a6/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40"></a></p>
 
   <details>
     <summary>Table of Contents</summary>
