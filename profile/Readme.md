@@ -1,5 +1,5 @@
 <body>
-<p>GitHub Homepage: <a href="https://github.com/garrettbovo"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" title="Go to my GitHub Homepage" alt="GitHub" height="50"></a></p>
+<p>GitHub Homepage: <a href="https://github.com/garrettbovo"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" title="Go to my GitHub Homepage" alt="GitHub" height="40"></a></p>
 
   <details>
     <summary>Table of Contents</summary>
