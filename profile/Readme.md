@@ -64,7 +64,7 @@ While these notes are tailored to my learning style, I hope they can also be a v
             <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Strings">Strings</a></li>
             <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Structures">Structures</a></li>
             <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Files">Files</a></li>
-            <li><a href="(https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Advanced%20Uses%20of%20Pointers">Advanced Uses of Pointers</a></li>
+            <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Advanced%20Uses%20of%20Pointers">Advanced Uses of Pointers</a></li>
             <li><a href="https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Procedural%20Programming/Writing%20Large%20Programs">Writing Large Programs</a></li>
         </ul>
     </details>   
