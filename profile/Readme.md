@@ -1,6 +1,5 @@
 <body>
-<p>GitHub Homepage: <a href="https://github.com/garrettbovo"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40"></a></p>
-<p>LinkedIn: <a href="https://www.linkedin.com/in/garrett-ellis-740b202a6/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40"></a></p>
+<p>GitHub Homepage: <a href="https://github.com/garrettbovo"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" title="Go to my GitHub Homepage" alt="GitHub" height="30"></a> &emsp;&emsp;&emsp;&emsp;&emsp; LinkedIn: <a href="https://www.linkedin.com/in/garrett-ellis-740b202a6/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" title="Go to my LinkedIn" alt="LinkedIn" height="30"></a></p>
 
   <details>
     <summary>Table of Contents</summary>
