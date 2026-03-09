@@ -1,5 +1,5 @@
 <body>
-<a href="https://www.linkedin.com/in/garrett-ellis-740b202a6/">
+<a href="https://www.linkedin.com/in/garrett--ellis/">
     <img src="https://github.com/user-attachments/assets/882149b3-09ac-4e05-9fd9-8b4bbc50109c" title="Go to my LinkedIn" alt="GitHub Header Image">
 </a>
 
@@ -85,7 +85,14 @@ While these notes are tailored to my learning style, I hope they can also be a v
 <details>
   <summary>Data Structures and Algorithms</summary>
 
+- [Analysis of Algorithms](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Data%20Structures/Analysis%20of%20Algorithms)
+- [Lists, Vectors, and Sequences](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Data%20Structures/Lists%2C%20Vectors%2C%20and%20Sequences)
 - [Stacks, Queues, and Deques](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Data%20Structures/Stacks%2C%20Queues%2C%20and%20Deque)
+- [Iterators](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Data%20Structures/Iterators)
+- [Maps and Hashes](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Data%20Structures/Maps%20and%20Hashes)
+- [General Trees](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Data%20Structures/General%20Trees)
+- [Graphs](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Data%20Structures/Graphs)
+- [Functional Programming](https://github.com/Programming-Notes-all-languages/CPP-Notes/tree/main/Data%20Structures/Functional%20Programming)
 
 </details>
     </details>   
@@ -94,7 +101,7 @@ While these notes are tailored to my learning style, I hope they can also be a v
   <p>📫 How to reach me: egarrett021@gmail.com</p>
   <p>
     <a href="https://github.com/garrettbovo"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40"></a>
-    <a href="https://www.linkedin.com/in/garrett-ellis-740b202a6/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40"></a>
+    <a href="https://www.linkedin.com/in/garrett--ellis/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40"></a>
   </p>
 </body>
 </html>
